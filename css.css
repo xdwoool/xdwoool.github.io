@@ -1,0 +1,42 @@
+﻿body
+{
+	font-family: msyh,Verdana;
+	font-size: 12px;
+	margin: 0px;
+	text-align: center;
+	background-color: #250800;
+}
+img,ul,li,form,p,h1,h2,h3,h4,h5,div,dl,dt,dd,p,span,div{border:0px; margin:0px; padding:0px;list-style:none;}
+
+p{line-height:26px}
+td {
+	FONT-SIZE: 12px
+}
+.a5 {
+	FONT-SIZE: 12px; COLOR: #cccccc
+}
+.STYLE28 
+{
+	
+	COLOR: #00ff00
+}
+.STYLE29 {
+	COLOR: #00ffff
+}
+.STYLE107 {
+	FONT-WEIGHT: bold; COLOR: #00ffff; font-size:15px;
+}
+.STYLE108 {
+	COLOR: #ff0000
+}
+
+.box3{}
+
+.box3 p
+{
+	text-align: left;
+}
+
+.zhifu {
+	COLOR:White;
+}
